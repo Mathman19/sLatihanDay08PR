@@ -1,0 +1,6 @@
+C:\batch215\day08PR\sLatihanDay08PR\caDay08PR1\bin\Debug\caDay08PR1.exe.config
+C:\batch215\day08PR\sLatihanDay08PR\caDay08PR1\bin\Debug\caDay08PR1.exe
+C:\batch215\day08PR\sLatihanDay08PR\caDay08PR1\bin\Debug\caDay08PR1.pdb
+C:\batch215\day08PR\sLatihanDay08PR\caDay08PR1\obj\Debug\caDay08PR1.exe
+C:\batch215\day08PR\sLatihanDay08PR\caDay08PR1\obj\Debug\caDay08PR1.pdb
+C:\batch215\day08PR\sLatihanDay08PR\caDay08PR1\obj\Debug\caDay08PR1.csprojResolveAssemblyReference.cache
