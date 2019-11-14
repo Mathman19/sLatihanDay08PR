@@ -1,0 +1,5 @@
+C:\batch215\day08PR\sLatihanDay08PR\caDay08PR10\bin\Debug\caDay08PR10.exe.config
+C:\batch215\day08PR\sLatihanDay08PR\caDay08PR10\bin\Debug\caDay08PR10.exe
+C:\batch215\day08PR\sLatihanDay08PR\caDay08PR10\bin\Debug\caDay08PR10.pdb
+C:\batch215\day08PR\sLatihanDay08PR\caDay08PR10\obj\Debug\caDay08PR10.exe
+C:\batch215\day08PR\sLatihanDay08PR\caDay08PR10\obj\Debug\caDay08PR10.pdb
